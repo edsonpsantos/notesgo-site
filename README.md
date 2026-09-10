@@ -23,6 +23,4 @@ futuramente para hospedar `app-ads.txt` quando a conta AdMob real for configurad
 
 ## Pendências conhecidas
 
-- `[DATA]` e `[CONTATO]` em `privacy-policy.html` ainda precisam ser preenchidos com a data de
-  publicação e um e-mail de suporte real antes da submissão final à Play Console.
 - `app-ads.txt` ainda não foi criado (depende da conta AdMob real).
