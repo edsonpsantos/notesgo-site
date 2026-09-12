@@ -3,8 +3,8 @@
 Site público oficial do NotesGO — hospedado via GitHub Pages em
 `https://edsonpsantos.github.io/notesgo-site/`.
 
-Usado inicialmente para publicar a Política de Privacidade exigida pela Google Play Console, e
-futuramente para hospedar `app-ads.txt` quando a conta AdMob real for configurada.
+Usado para publicar a Política de Privacidade exigida pela Google Play Console e para hospedar
+`app-ads.txt`, já configurado com o publisher ID real do AdMob (`pub-9698767038628451`).
 
 ## Conteúdo
 
@@ -12,6 +12,8 @@ futuramente para hospedar `app-ads.txt` quando a conta AdMob real for configurad
 - `privacy-policy.html` — Política de Privacidade oficial, baseada em
   `notesgo/docs/privacy-policy.md` (repositório privado do app)
 - `style.css` — folha de estilo simples e responsiva, compartilhada pelas páginas
+- `app-ads.txt` — declaração de vendedor autorizado do AdMob, exigida pela Play Console para apps
+  monetizados com anúncios
 
 ## Princípios
 
@@ -20,7 +22,3 @@ futuramente para hospedar `app-ads.txt` quando a conta AdMob real for configurad
 - Conteúdo em PT-BR.
 - O conteúdo jurídico da Política de Privacidade reflete exatamente o documento oficial do app —
   qualquer mudança de conteúdo deve começar por `notesgo/docs/privacy-policy.md`, não por aqui.
-
-## Pendências conhecidas
-
-- `app-ads.txt` ainda não foi criado (depende da conta AdMob real).
